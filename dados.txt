@@ -1,12 +1,13 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Aline
+-Profissão: Eng QA
+-Cidade: Osasco
+-O que faz nas horas vaga:Leitura, filmes e música
 -Feedback sobre o curso Qualidade de Software:
+Amando o conteúdo e a didática
 -Feedback sobre a plataforma de estudo da EBAC:
-
+Plataforma intuitiva e de fácil entendimento
 Obrigado!!!
 
 
